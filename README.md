@@ -1,7 +1,17 @@
-# HostingBot | Hosting Commission Bot | Pterodactyl Automation
-Hosting-Bot
-Why use WHMCS when you can have it done from your discord server!
+# Wcord(the project is under development)
 
+Wcord is discord bot for whmcs, manage your servers, clients with discord
 
-# CHANGE THE CREATE SERVER/CREATE USER FILE UNDER COMMANDS TO YOUR OWN SANDBOX USER/API
-https://developer.paypal.com/developer/accounts/
+## Installation
+
+The project is under development
+
+## Usage
+
+The project is under development
+
+## Contributing
+We do not accept any pull requests as the project is currently under development.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
